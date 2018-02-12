@@ -1,1 +1,13 @@
 /bin
+/my_order.py
+/apple.json
+/article.json
+/article4.json
+/common_commodity.py
+/geckodriver.log
+/hot_commodity.py
+/hot_commodity.pyc
+/mongodb_api.py
+/mongodb_api.pyc
+/mongodb_config.py
+/mongodb_config.pyc
